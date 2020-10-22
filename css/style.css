@@ -1,13 +1,27 @@
 
-.background{
+.background {
 background-color: royalblue;
 
 }
 
-.navbarv{
-    background-color: red;
+.navbar {
+    background-color: rgb(61, 168, 159);
 }
 
+.quem-somos {
+background-color: rgb(63, 91, 168);
+color: white;
+}
+
+
 .marging{
-    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    
+}
+
+
+.parceiros{
+background-color: wheat;
+
 }
