@@ -4,6 +4,10 @@ body{
 }
 
 
+.servicos{
+    background-color: darkolivegreen;
+}
+
 .quem-somos{
     background-color: #c0c0d4;
     color: white;
@@ -16,7 +20,7 @@ body{
 
 .parceiros{
     background-color: #58FAF4;
-    
+
 }
 
 .bg-footer{
